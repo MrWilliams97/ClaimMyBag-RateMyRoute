@@ -1,0 +1,28 @@
+SOFTWARE ENG 2XB3
+
+Diya Mathews
+400014156
+mathewsd
+
+Mevin Mathew
+400012057
+mathem1
+
+Scott Williams
+400031554
+willis12
+
+Kshitij Mehta
+400012511
+mehtak1
+
+Shalmi Patel
+400023762
+patels19
+
+
+The work being submitted by this group is our own group work. 
+
+Credit for the Algs4.jar file that was a necessity for this to work goes to Robert Sedgewick,
+as he created the classes that are contained within the jar file. It was needed for the Dijkstra 
+algorithm implementation.
